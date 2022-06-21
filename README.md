@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Alexander
 #### I am Java Developer
 
-Skills: Java / SQL / Hibernate / Spring / JUnit / Mockito / Maven / Gradle /GitHub
+Skills: Java / SQL / Hibernate / Spring / JUnit / Mockito / Maven / Gradle / GitHub
 
 
 
